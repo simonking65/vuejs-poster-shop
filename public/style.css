@@ -229,3 +229,35 @@ h1 {
 .cart ul .cart-item button {
     margin-right: 3px;
 }
+a {
+    text-decoration: none;
+    font-weight: bold;
+}
+
+img {
+    margin-right: 12px;
+    margin-bottom: 6px;
+    border: 1px solid #000;
+}
+.mainimg {
+    float: left;
+}
+#hide_e {
+    display: none;
+}
+
+#elevation {
+    display: none;
+}
+#show_e {
+    display: block;
+}
+.fakelink {
+    cursor: pointer;
+    text-decoration: none;
+    font-weight: bold;
+    color: #e03a3e;
+}
+section {
+    margin-bottom: 6px;
+}
